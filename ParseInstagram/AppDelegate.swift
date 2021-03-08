@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ParseInstagram
 //
-//  Created by Dermyrius Lindsey-Lewis on 3/7/21.
+//  Created by Justin Linberg on 3/6/21.
 //
 
 import UIKit
